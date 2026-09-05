@@ -31,9 +31,9 @@ A{Input Audio Sample}  --> B[Break into Chunks] --> C[Hann Window] --> D[FFT]
 ## Example:
 [Inputed Audio](https://raw.githubusercontent.com/ibrahim786alam/Arduino-Audio-32kb-/refs/heads/main/Aria%20math%20FINAL.wav)
 
-30 seconds
-2000 Mhz Sample Rate
-4 bit depth
+30 seconds|
+2000 Mhz Sample Rate|
+4 bit depth|
 
 [Output Audio](https://raw.githubusercontent.com/ibrahim786alam/Arduino-Audio-32kb-/refs/heads/main/WhatsApp%20Ptt%202026-09-05%20at%201.18.43%20PM.ogg)
 Note: there was some more quality loss in recording. audio was clearer 
